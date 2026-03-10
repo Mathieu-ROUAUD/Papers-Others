@@ -10,6 +10,13 @@ Roger Penrose, GRAVITATIONAL COLLAPSE AND SPACE-TIME SINGULARITIES
 Code for the free software Maxima (Christoffel symbols, etc):  
 2010-SpaceTimesCatalog.pdf  
   
+A metric including Schwarzschild and Lemaître or de Sitter:  
+G.C.McVittie, THE MASS-PARTICLE IN AN EXPANDING UNIVERSE.  
+1933-McVittie.pdf  
+  
+Making sense of the bizarre behaviour of horizons in the McVittie spacetime  
+2012-MakingSenseMcVittieSpacetime.pdf  
+  
 References:  
 2006-TurnaroundInCyclicCosmology.pdf  
 
