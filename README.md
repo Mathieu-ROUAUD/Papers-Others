@@ -1,7 +1,11 @@
 ### Comments
 Lorentz Transform from Symmetries:  
 Jean-Marc Lévy-Leblond, « One more derivation of the Lorentz transformation »  
-1975-JM-LevyLeblond-One_more_derivation_of_the_Lorentz_transformation.pdf  
+1975-JM-LevyLeblond-One_more_derivation_of_the_Lorentz_transformation.pdf 
+  
+The exact solution to Einstein's equations for the gravitational field created by a point mass (January 1916) and a massive sphere of constant density (February):  
+1916-Schwarzschild-exterior-en.pdf  
+1916-Schwarzschild-interior-en.pdf  
   
 Inspiring diagram of a collapsing star:  
 Roger Penrose, GRAVITATIONAL COLLAPSE AND SPACE-TIME SINGULARITIES  
